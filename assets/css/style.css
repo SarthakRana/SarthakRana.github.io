@@ -237,7 +237,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(16, 202, 56);
+  color: rgb(0, 251, 255);
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -357,8 +357,7 @@ h3 {
 }
 
 .overlay {
-  /* background-color: rgba(0, 0, 0, 0.4); */
-  background-color: rgba(186, 185, 185, 0.4);
+  background-color: rgba(0, 0, 0, 0.4);
   height: 100%;
   left: 0;
   position: absolute;
